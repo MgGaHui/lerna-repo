@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MgGaHui/lerna-repo/issues"
   },
-  "homepage": "https://github.com/MgGaHui/lerna-repo#readme"
+  "homepage": "https://github.com/MgGaHui/lerna-repo#readme",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
 }
