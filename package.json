@@ -1,0 +1,19 @@
+{
+  "name": "lerna-repo",
+  "version": "1.0.0",
+  "description": "lernajs practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MgGaHui/lerna-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MgGaHui/lerna-repo/issues"
+  },
+  "homepage": "https://github.com/MgGaHui/lerna-repo#readme"
+}
